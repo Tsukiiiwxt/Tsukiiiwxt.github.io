@@ -7,28 +7,27 @@ description: Here is personal website of Hanlin Cai, PhD Student at the Universi
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://tsukiiiwxt.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Xintong Wang
+  avatar: wxt.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  email: wang-xt23@mails.tsinghua.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  instagram: lancecai2002
-  bilibili: 594030035
+  github: Tsukiiiwxt
+  # linkedin: 
+  # scholar: 
+  # researchgate: 
+  # zhihu: 
+  # xiaohongshu: 
+  # instagram: 
+  # bilibili: 
   # facebook: caihanlin2002
   # lastfm:
   # tumblr:
